@@ -14,5 +14,3 @@ const a = prompt('Один из последних фильмов, которы�
 
 personalMovieDB.movies[a] = b;
 personalMovieDB.movies[c] = d;
-
-console.log(personalMovieDB);
